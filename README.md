@@ -67,13 +67,9 @@
 
 ### 📌 Featured Projects
 
-> This section is intentionally light for now — I'd rather show real, working projects than placeholders. First one landing soon:
-
 | Project | Status | Description |
 |---|---|---|
 | 🔍 **RAG Q&A Demo** | 🚧 In progress | PDF → embeddings → vector retrieval → LLM answer generation, deployed on Hugging Face Spaces |
-
-*(Table auto-fills as projects ship — ping me if you want to collaborate on one!)*
 
 ---
 
